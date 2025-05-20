@@ -76,7 +76,7 @@ Before running the Debian QCOW2 Image Builder script, ensure your system meets t
      
  ## Demo
 
-[![Debian QCOW2 Demo](https://asciinema.org/a/DEaetQ3304YJpkTiQU81vlC76.png)](https://asciinema.org/a/DEaetQ3304YJpkTiQU81vlC76)
+[![Debian QCOW2 Demo](https://asciinema.org/a/FQsjGwwkWar8BGEXu5MfhPZJ7.png)](https://asciinema.org/a/FQsjGwwkWar8BGEXu5MfhPZJ7)
 
 Click the image above to watch a full demo of the build and boot process.
 
